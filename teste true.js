@@ -32,3 +32,5 @@ if (pesoEhValido && alturaEhValida) {
 }
 
 Testando ferramenta
+
+Teste parte 2
